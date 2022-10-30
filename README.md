@@ -5,7 +5,7 @@
 ### Решение задачи (С#) 
 
     Console.WriteLine("Введите количество строк"); 
-    int numStr = Convert.ToInt32(Console.ReadLine()); 
+    int numStr = Convert.ToInt32(Console.ReadLine()); git
     string[] array = new string[numStr]; 
     Console.WriteLine("Введите текст"); 
     for(int i = 0; i < numStr; i++) 
